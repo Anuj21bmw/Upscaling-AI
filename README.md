@@ -1,5 +1,5 @@
 TASK :: 
-The primary goal of this assignment is to showcase your proficiency in developing an
+The primary goal of this project is to showcase your proficiency in developing an
 advanced AI model capable of enhancing the quality of a video by upscaling its
 resolution and reducing noise. Your task entails harnessing the capabilities of any
 suitable and available model to achieve significant improvements in video quality,
